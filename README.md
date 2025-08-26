@@ -1,2 +1,1 @@
-# Mihomo-Party
-Mihomo Party 科学上网资源下载
+# Mihomo Party 科学上网资源下载
